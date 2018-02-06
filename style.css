@@ -3,19 +3,30 @@ box {
   border-radius: 6px;
   color: #777;
   display: block;
-  font: 14px/24px "Source Code Pro", Arial, "Lucida Console", Helvetica Neue, "Courier New", sans-serif;
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	font-size: 18px;
-  padding: 24px 10px;
+  padding: 40px 15px;
   text-align: center;
 }
 
+another {
+	background: #ebebeb;
+  border-radius: 6px;
+  color: #777;
+  display: block;
+  font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+  padding: 118px 25px;
+  text-align: top;
+}
 header,
 section,
 aside,
 nav,
 footer {
-  margin: 0 1.5% 24px 1.5%;
+  margin: 0 1.5% 20px 1.5%;
 }
+
 .article{
 	background: #777;
   color: #ebebeb;
